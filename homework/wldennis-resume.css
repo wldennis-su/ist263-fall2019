@@ -1,0 +1,80 @@
+body {
+    background-color: #ccc;
+}
+p {
+    background-color: white;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 21px;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    font-style: normal;
+    font-weight: 200;
+    width: 100%;
+}
+
+h2 {
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 21px;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    font-style: normal;
+    font-weight: 200;
+    width: 100%;
+}
+h3 {
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 21px;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    font-style: normal;
+    font-weight: 200;
+    width: 100%;
+}
+
+section#projects {
+    background-image: url("./gradient_bg.png");
+    background-repeat: repeat-x;
+}
+section#education {
+    background-image: url("./gradient_bg.png");
+    background-repeat: repeat-x;
+}
+section#work-experience {
+    background-image: url("./gradient_bg.png");
+    background-repeat: repeat-x;
+}
+h1 {
+    font-family: "Times New Roman", Helvetica, Arial, sans-serif;
+    color: navy;
+}
+
+table {            
+    padding: 10px;
+    margin: 15px;
+    border-top-width: 20px;
+    border-top-style: ridge;
+    border-top-color: red;
+    border-left-width: 2px;
+    border-left-style: solid;
+    border-left-color: red;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
+    border-right-width: 2px;
+    border-right-style: solid;
+    border-right-color: red;
+    border: 2px solid red;
+    background-color: white;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 21px;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    font-style: normal;
+    font-weight: 200;
+    width: 100%;
+    }
+}
