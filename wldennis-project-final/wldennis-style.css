@@ -1,0 +1,153 @@
+body {
+    font-family: 'Francois One', sans-serif;
+}
+.logoimg {
+    width: 100px;
+    height: 100%;
+    mix-blend-mode: darken;
+}
+.head {
+    background-image: url("images/20170803_182134.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+.best, .fav, .day {
+    list-style-type: none;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    background-color: rgb(68, 117, 68);
+}
+.active {
+    list-style-type: none;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(39, 66, 39);
+}
+li a:hover {
+    background-color: rgb(39, 66, 39);
+}
+.logo {
+    float: left;
+}
+.links {
+    float: right;
+}
+h1 a:link, h1 a:visited, h1 a:hover, h1 a:active {
+    color: rgb(68, 117, 68);
+    font-size: 50px;
+    font-style: italic;
+    padding: 10px;
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: white;
+}
+
+.besttitle {
+    text-align: center;
+    padding-top: 20px;
+}
+.bestcontainer {
+    text-align: center;
+    padding: 50px;
+}
+
+.i {
+    width: 50%;
+    border-width: 10px;
+    border-color: rgb(39, 66, 39);
+    border-style: solid;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.song {
+    text-align: center;
+    padding: 50px;
+}
+iframe {
+    border-radius: 10px;
+}
+h2 {
+    color: rgb(68, 117, 68);
+    text-decoration: underline;
+    font-size: 35px;
+}
+h3 {
+    font-size: 25px;
+}
+.about {
+    font-size: 15px;
+}
+.home {
+    font-size: 25px;
+    margin-top: 20px;
+    text-align: center;
+}
+.homesite {
+    font-size: 40px;
+    margin-top: 20px;
+    text-align: center;
+}
+.site {
+    font-size: 30px;
+}
+.wyatt {
+    padding-left: 50px;
+    margin-top: 10px;
+}
+.aboutimg {
+    width: 500px;
+    height: 100%;
+    mix-blend-mode: darken;
+}
+.me {
+    text-align: center;
+}
+footer {
+    padding-left: 100px;
+}
+ol {
+    font-size: 30px;
+}
+.favhead, .padleft {
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.favhead {
+    font-size: 50px;
+}
+.info {
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+.previous {
+    margin-bottom: 50px;
+}
+.bestcontainer {
+    display: flex;
+}
+.favimage {
+}
+.mpc {
+    background-blend-mode: darken;
+}
+.fav-beats {
+    text-align: center;
+}
+.songtitle-bottom {
+    padding-bottom: 50px;
+}
+.songtitle-top {
+    padding-top: 50px;
+}
